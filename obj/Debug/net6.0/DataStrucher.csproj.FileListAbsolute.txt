@@ -1,0 +1,5 @@
+C:\Users\Admin\bridgelab\csharpprograms\DataStrucher\DataStrucher\obj\Debug\net6.0\DataStrucher.csproj.AssemblyReference.cache
+C:\Users\Admin\bridgelab\csharpprograms\DataStrucher\DataStrucher\obj\Debug\net6.0\DataStrucher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\bridgelab\csharpprograms\DataStrucher\DataStrucher\obj\Debug\net6.0\DataStrucher.AssemblyInfoInputs.cache
+C:\Users\Admin\bridgelab\csharpprograms\DataStrucher\DataStrucher\obj\Debug\net6.0\DataStrucher.AssemblyInfo.cs
+C:\Users\Admin\bridgelab\csharpprograms\DataStrucher\DataStrucher\obj\Debug\net6.0\DataStrucher.csproj.CoreCompileInputs.cache
